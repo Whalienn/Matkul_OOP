@@ -1,1 +1,1 @@
-# Matkul_OOP
+# OOP praktikum 1
